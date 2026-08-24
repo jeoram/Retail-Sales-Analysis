@@ -47,8 +47,3 @@ Améliorer la performance commerciale en identifiant les produits, régions et s
 Pour des explications détaillées des graphiques et des chiffres, voir le notebook : [Retail-Sales-Analysis/Anlayse_Sales.ipynb](Retail-Sales-Analysis/Anlayse_Sales.ipynb)
 
 ---
-
-Si vous le souhaitez, je peux :
-
-- Générer un requirements.txt précis à partir des imports du notebook.
-- Ajouter des recommandations opérationnelles détaillées basées sur les résultats (ex : limiter remises pour telle catégorie, focus sur telle région).
